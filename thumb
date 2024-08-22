@@ -1,0 +1,8 @@
+      <div class="thumbnail">
+          <img src="file:///C|/Users/Mr.Mohamed Haredy/AppData/Roaming/Adobe/Dreamweaver CC 2015/en_US/Configuration/Temp/Assets/eam9398.tmp/images/Thumbnail_Placeholder.png" alt="Thumbnail Image 1">
+            <div class="caption">
+              <h3>Thumbnail 1 label</h3>
+              <p>Optional content and buttons for Thumbnail #1</p>
+              <p><a href="#" class="btn btn-primary" role="button">Button</a><a href="#" class="btn btn-default" role="button">Button</a></p>
+            </div>
+          </div>
